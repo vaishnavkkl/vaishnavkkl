@@ -19,8 +19,8 @@
 -->
 - 🔭 I’m currently pursuing B-Tech on Information Technology
 - 🌱 I’m currently learning Android app development(flutter),Web Development and Python automation 
-- 👯 I’m looking to collaborate on flutter projects
-- 💬 Ask me about flutter development
+- 👯 I’m looking to collaborate on web projects
+- 💬 Ask me about web development
 - 📫 How to reach me: [twitter](https://www.twitter.com/vaishnavkkl),[Instagram](https://www.instagram.com/mr._yshnav/)
 
 
