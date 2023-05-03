@@ -5,10 +5,8 @@
 
 -Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing B-Tech on Information Technology
-- 🌱 I’m currently learning Android app development(flutter), web development
-- 👯 I’m looking to collaborate on web development projects
-- 💬 Ask me about web development
+- 🔭 Software Developer at Ospyn Technologies
+- 🌱 React Native Dev
 - 📫 How to reach me: twitter
 
 
