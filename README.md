@@ -5,7 +5,7 @@
 
 -Here are some ideas to get you started:
 
-- 🔭 Software Developer at Ospyn Technologies
+- 🔭 Software Developer 
 - 🌱 React Native Dev
 - 📫 How to reach me: twitter
 
